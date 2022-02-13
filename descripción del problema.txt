@@ -1,0 +1,7 @@
+Descripción del problema:
+
+El problema que se tiene es que la empresa de seguros TK-U necesita automatizar la elaboración de cotizaciones para sus clientes porque le toma mucho tiempo hacerlo de forma manual e incluso pierden clientes por ello.
+
+Por lo tanto se debe realizar un programa que calcule la cotización de un usuario, tomando en cuenta que éste debe ser mayor de edad para aplicar al seguro. Además, el valor de la cotizacion varía según su rango de edad, si tiene esposo/a y la edad del conyuge. También existe un recargo por la cantidad de hijos que posee. 
+
+Una vez calculado el recargo total, hay que sumarlo al precio del plan base para tener el precio total que se le indicará al usuario.  

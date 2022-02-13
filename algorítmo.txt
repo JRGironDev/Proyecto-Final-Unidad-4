@@ -1,0 +1,35 @@
+Algortimo:
+
+1. Preguntar el nombre de la persona a asegurar
+2. Guardar en una variable la respuesta del usuario
+3. Preguntar la edad de la persona a asegurar
+4. Guardar en una variable la respuesta del usuario
+5. Convertir a número la variable de edad de la persona a asegurar
+6. Guardar en una variable la edad en número de la persona a segurar 
+7. Preguntar si la persona a asegurar está casada actualmente
+8. Guardar en una variable la respuesta del usuario
+9. Si la persona a asegurar está casada, preguntar la edad del conyuge
+10. Guardar en una variable la respuesta del usuario
+11. Convertir a número la variable de edad del conyuge
+12. Guardar en una variable la edad en número del conyuge 
+13. Preguntar si la persona a asegurar tiene hijos o hijas
+14. Guardar en una variable la respuesta del usuario
+15. Si tiene hijos o hijas, preguntar cuántos tiene
+16. Guardar en una variable la respuesta del usuario
+17. Convertir a número la variable de cantidad de hijos de la persona a asegurar
+18. Guardar en una variable cantidad de hijos en número de la persona a asegurar
+19. Calcular el recargo por la edad de la persona a asegurar
+20. Si la edad de la persona a asegurar está entre el rango de 18 a 24 años, se hará un recargo del 10% del precio base
+21. Si la edad de la persona a asegurar está entre el rango de 25 a 49 años, se hará un recargo del 20% del precio base
+22. Si la edad de la persona a asegurar es de 50 años o más, se hará un recargo del 30% del precio base
+23. Al recargo total que tiene se le suma el recargo obtenido por el rango de edad de la persona a segurar
+24. Calcular el recargo por la edad del conyuge si lo tuviera
+25. Si la edad del conyuge está entre el rango de 18 a 24 años, se hará un recargo del 10% del precio base
+26. Si la edad del conyuge está entre el rango de 25 a 49 años, se hará un recargo del 20% del precio base
+27. Si la edad del conyuge es de 50 años o más, se hará un recargo del 30% del precio base
+28. Al recargo total que tiene se le suma el recargo obtenido por el rango de edad del conyuge
+29. Si la cantidad de hijos es mayor a 0, se hará un recargo del 20% por cada hijo sobre el precio base
+30. A la variable presio final se le sumará el precio base más el recargo total
+31. Mostrar en una alerta el nombre de la persona a asegurar
+32. Mostrar en una alerta el recargo total 
+33. Mostrar en una alerta el precio final
